@@ -1,5 +1,7 @@
 
-这是一份会长期更新和完善的 Go 学习指南和面试专题，会逐步进行完善。欢迎到【[公众号](https://github.com/eddycjy/go777#%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7)】获取最新文章或加我 【[微信](https://github.com/eddycjy/go777#%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7)】提意见。务必记得 Star，可倒推煎鱼更新，感谢各位。
+这是一份会长期更新和完善的 Go 学习指南和面试专题，会逐步进行完善。
+
+欢迎到【[公众号](https://github.com/eddycjy/go777#%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7)】获取最新文章或加我 【[微信](https://github.com/eddycjy/go777#%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7)】提意见（记得 Star），可倒推煎鱼更新，感谢各位。
 
 ## Go 学习指南
 

@@ -33,6 +33,7 @@
 
 待完善中...
 
+- [在线资料](https://github.com/eddycjy/go-developer-roadmap/blob/main/docs/book/%E7%94%B5%E5%AD%90%E4%B9%A6.md#%E5%9C%A8%E7%BA%BF%E8%B5%84%E6%96%99)
 - [电子书（请勿传播）](https://github.com/eddycjy/go777/blob/main/docs/book/%E7%94%B5%E5%AD%90%E4%B9%A6.md#go-%E8%AF%AD%E8%A8%80)
 - 简历模板
 

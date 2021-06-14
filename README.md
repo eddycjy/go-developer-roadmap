@@ -34,6 +34,20 @@
 - [Go sync.map 和原生 map 谁的性能好，为什么？](https://mp.weixin.qq.com/s/8aufz1IzElaYR43ccuwMyA)
 - [Go 是传值还是传引用？](https://mp.weixin.qq.com/s/qsxvfiyZfRCtgTymO9LBZQ)
 
+## 常用软件
+
+- HTTP
+  - [gin](https://github.com/gin-gonic/gin)
+- RPC
+  - [grpc-go](https://github.com/grpc/grpc-go)
+  - [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
+- 微服务框架
+  - [go-zero](https://github.com/tal-tech/go-zero)
+  - [kratos](https://github.com/go-kratos/kratos)
+- ORM
+  - [gorm](https://github.com/go-gorm/gorm)
+  - [xorm](https://gitea.com/xorm/xorm)
+
 ## 福利
 
 待完善中...

@@ -9,6 +9,11 @@
 - [Go 语言编程之旅](https://golang2.eddycjy.com/)
 - [Go 语言进阶之旅](https://golang1.eddycjy.com/)
 
+## Go 模块管理
+
+- [Go Modules 入门到熟练](https://mp.weixin.qq.com/s/6gJkSyGAFR0v6kow2uVklA)
+- [Go Modules 历史、坑、技巧](https://mp.weixin.qq.com/s/jpp7vs3Fdg4m15P1SHt1yA)
+
 ## Go 面试专题
 
 - [Go new 和 make 是什么，差异在哪？](https://mp.weixin.qq.com/s/tZg3zmESlLmefAWdTR96Tg)

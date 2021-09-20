@@ -48,6 +48,9 @@
 - [为什么 Go map 的负载因子是 6.5？](https://mp.weixin.qq.com/s/nL7jkskVHTmCy3Ed9e-RZA)
 
 
+## 常见坑
+
+- [Go slice append 数据异常](https://mp.weixin.qq.com/s/kEQI74ge6VhvNEr1d3JW-Q)
 
 
 ## Go 历史版本特性

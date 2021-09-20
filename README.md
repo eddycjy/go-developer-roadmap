@@ -11,7 +11,7 @@
 
 ## Go 模块管理
 
-- [Go Modules 入门到熟练](https://mp.weixin.qq.com/s/6gJkSyGAFR0v6kow2uVklA)
+- [Go Modules 入门到精通](https://mp.weixin.qq.com/s/6gJkSyGAFR0v6kow2uVklA)
 - [Go Modules 历史、坑、技巧](https://mp.weixin.qq.com/s/jpp7vs3Fdg4m15P1SHt1yA)
 
 ## Go 面试专题
@@ -32,6 +32,7 @@
 - [详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？](https://mp.weixin.qq.com/s/YK-TD3bZGEgqC0j-8U6VkQ)
 - [Goroutine 泄露的情况有哪些？](https://mp.weixin.qq.com/s/ql01K1nOnEZpdbp--6EDYw)
 - [Go 在什么时候会抢占 P？](https://mp.weixin.qq.com/s/WAPogwLJ2BZvrquoKTQXzg)
+- [会诱发 Goroutine 挂起的 27 个原因](https://mp.weixin.qq.com/s/h1zrFLWoryA7P5I19kwkpg)
 
 ### 数据结构
 

@@ -42,9 +42,15 @@
 - [支持泛型了？具体怎么用](https://mp.weixin.qq.com/s/Pf7YuFpwbldSB60DDCBtlA)
 - [支持模糊测试（Fuzzing）](https://mp.weixin.qq.com/s/zdsrmlwVR0bP1Q_Xg_VlpQ)
 - [增强构建时的编译约束](https://mp.weixin.qq.com/s/5kLFIuI0UJl_o8vMmZNfoA)
-- [优化依赖管理，支持模块依赖图裁剪、延时模块加载](https://mp.weixin.qq.com/s/2vVGVd_QJSrCeenuvwGS3g)
+- [优化 modules：支持模块依赖图裁剪、延时模块加载](https://mp.weixin.qq.com/s/2vVGVd_QJSrCeenuvwGS3g)
 - [优化基于寄存器的函数参数和结果传递](https://mp.weixin.qq.com/s/cYnlPTM3R02_kZsIukmVfg)
 - [优化恐慌所抛出的异常堆栈信息](https://mp.weixin.qq.com/s/zu5atVDYYaRIJ5sj96mlmg)
+
+### 1.16
+- [支持静态资源编译打包](https://mp.weixin.qq.com/s/aBPrBHl9BpbvbJyatB3Vww)
+- [变更内存管理机制：从 MADV_FREE 改回 MADV_DONTNEED](https://mp.weixin.qq.com/s/l4oEJdskbWpff1E3tTNUxQ)
+- [优化 modules：支持后悔药](https://mp.weixin.qq.com/s/0g89yj9sc1oIz9kS9ZIAEA)
+- [逐步移除 GOPATH](https://mp.weixin.qq.com/s/uSqBCrRaSSR82aL0jw3TfQ)
 
 ## 常用软件
 

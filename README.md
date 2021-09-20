@@ -34,6 +34,18 @@
 - [Go sync.map 和原生 map 谁的性能好，为什么？](https://mp.weixin.qq.com/s/8aufz1IzElaYR43ccuwMyA)
 - [Go 是传值还是传引用？](https://mp.weixin.qq.com/s/qsxvfiyZfRCtgTymO9LBZQ)
 
+## Go 历史版本特性
+
+### 1.17
+
+- [支持切片转换为数组指针](https://mp.weixin.qq.com/s/v1czjzlUsaSQTpAOG9Ub3w)
+- [支持泛型了？具体怎么用](https://mp.weixin.qq.com/s/Pf7YuFpwbldSB60DDCBtlA)
+- [支持模糊测试（Fuzzing）](https://mp.weixin.qq.com/s/zdsrmlwVR0bP1Q_Xg_VlpQ)
+- [增强构建时的编译约束](https://mp.weixin.qq.com/s/5kLFIuI0UJl_o8vMmZNfoA)
+- [优化依赖管理，支持模块依赖图裁剪、延时模块加载](https://mp.weixin.qq.com/s/2vVGVd_QJSrCeenuvwGS3g)
+- [优化基于寄存器的函数参数和结果传递](https://mp.weixin.qq.com/s/cYnlPTM3R02_kZsIukmVfg)
+- [优化恐慌所抛出的异常堆栈信息](https://mp.weixin.qq.com/s/zu5atVDYYaRIJ5sj96mlmg)
+
 ## 常用软件
 
 - HTTP

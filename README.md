@@ -49,9 +49,11 @@
 
 
 ## 常见坑
-
 - [Go slice append 数据异常](https://mp.weixin.qq.com/s/kEQI74ge6VhvNEr1d3JW-Q)
 
+## 代码调试
+- [学会使用 Go Delve 调试](https://mp.weixin.qq.com/s/Yz_p0S5N4ubf8wxLm5wbmQ)
+- [学会使用 GDB 调试 Go 代码](https://mp.weixin.qq.com/s/O9Ngzgg9xfHMs5RSK5wHQQ)
 
 ## Go 历史版本特性
 

@@ -5,9 +5,11 @@
 
 ## Go 学习指南
 
-- [跟煎鱼学 Go 语言（含 gin、grpc、grpc-gateway 实战）](https://eddycjy.com/go-categories/)
-- [Go 语言编程之旅](https://golang2.eddycjy.com/)
-- [Go 语言进阶之旅](https://golang1.eddycjy.com/)
+- [Go 语言入门系列：初探 Go 项目实战（含 gin、grpc、grpc-gateway 实战）](https://eddycjy.com/go-categories/)
+- [Go 语言编程之旅：深入用 Go 做项目](https://golang2.eddycjy.com/)
+- [Go 语言设计哲学：了解 Go 的为什么和设计思考](https://golang3.eddycjy.com/)
+- [Go 语言进阶之旅：进一步深入 Go 源码](https://golang1.eddycjy.com/)
+
 
 ## Go 模块管理
 
@@ -56,6 +58,15 @@
 - [学会使用 GDB 调试 Go 代码](https://mp.weixin.qq.com/s/O9Ngzgg9xfHMs5RSK5wHQQ)
 
 ## Go 历史版本特性
+
+### 1.18
+- [多 Module 工作区模式](https://mp.weixin.qq.com/s/Aa9s_ORDVfzbj915aJD5_w)
+- [编译后的二进制文件，将包含更多信息](https://mp.weixin.qq.com/s/GWORgffT-xGNEwtOs_4llw)
+- [新增好用的 Cut 方法](https://mp.weixin.qq.com/s/anYHPw46gONF1J_Mzg3cpg)
+- [引入新的 netip 网络库](https://mp.weixin.qq.com/s/-6apXq9ZpBAK0FVDnY77xA)
+- [被折腾 N 次的 TryLock](https://mp.weixin.qq.com/s/mHf2g7SIBRUC1a7UfDlwpw)
+- [弃用 strings.Title 方法，换个新坑吧！](https://mp.weixin.qq.com/s/UiP-up751_Q3N0xzE2qkfA)
+- [高效复制，strings, bytes 标准库新增 Clone API](https://mp.weixin.qq.com/s/QvyjBwKM12Ruz_stujVA7Q)
 
 ### 1.17
 

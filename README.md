@@ -65,6 +65,7 @@
 - [Go 邮件讨论组](https://groups.google.com/g/golang-nuts)
 - [Effective Go](https://go.dev/doc/effective_go)
 - [Go 实操之旅](https://go.dev/tour/welcome/1)
+- [Go 泛型入门](https://go.dev/doc/tutorial/generics)
 
 ## 常用软件
 

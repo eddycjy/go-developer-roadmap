@@ -57,6 +57,15 @@
 - [学会使用 Go Delve 调试](https://mp.weixin.qq.com/s/Yz_p0S5N4ubf8wxLm5wbmQ)
 - [学会使用 GDB 调试 Go 代码](https://mp.weixin.qq.com/s/O9Ngzgg9xfHMs5RSK5wHQQ)
 
+
+## 官方资料
+- [Go 编程语言规范](https://go.dev/ref/spec)
+- [标准库介绍和文档](https://pkg.go.dev/std)
+- [Go 博客](https://go.dev/blog/)
+- [Go 邮件讨论组](https://groups.google.com/g/golang-nuts)
+- [Effective Go](https://go.dev/doc/effective_go)
+- [Go 实操之旅](https://go.dev/tour/welcome/1)
+
 ## 常用软件
 
 - HTTP

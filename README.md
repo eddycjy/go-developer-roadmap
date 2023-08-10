@@ -91,6 +91,30 @@
 
 ## Go 历史版本特性
 
+### 1.21
+- [slices、maps 泛型库](https://mp.weixin.qq.com/s/1NuBnk8_lxmTi9N0biLa2g)
+- [for 循环变量的语义变更](https://mp.weixin.qq.com/s/VO0VlfGbuvZst9yD73-VDQ)
+- [context 可设置取消原因和回调函数](https://mp.weixin.qq.com/s/3HVmCkPdEBsM0W3dRh8ycw)
+- [主版本号支持第三位数字 0](https://mp.weixin.qq.com/s/BfW8Ra3tsv7Dv3nu3MeI0g)》
+- [统一标准 log/slog](https://mp.weixin.qq.com/s/ZOdasSP0paVCLF94Vf9A9A)
+- [支持自定义 go.env 文件](https://mp.weixin.qq.com/s/NR-yy9BWrs3qjvmO5Gd2CQ)
+- [增强约束 Go 程序构建](https://mp.weixin.qq.com/s/s13EBwOExsVz_vwNEm0fvQ)
+- [新内置函数和标准库 clear、min、max、cmp](https://mp.weixin.qq.com/s/MorBUrzpKFhssiZWLt4o6g)
+- [panic(nil) 成为历史](https://mp.weixin.qq.com/s/xgJ8lPS-O84Ttne5heRa3g)
+- [结束对 macOS 10.13/10.14 和 Windows 7/8、Server 2008/2012](https://mp.weixin.qq.com/s/s8ehvGK4tIOUcOqbKSI4Rg)》
+- [进一步支持 WASI](https://mp.weixin.qq.com/s/RNrO9U6wZkuGQgLtUJXuFQ)》
+
+### 1.20
+- [两个关于 Time 的更新，不用背 2006-01-02 15:04:05 了](https://mp.weixin.qq.com/s/nBLBnh_NGh_XoN9HZh3XSw)
+- [手动管理内存：arena 来了](https://mp.weixin.qq.com/s/6w0YO5l3_69A9z3KRYEizA)
+- [arena 能手动管理内存了，怎么用](https://mp.weixin.qq.com/s/mwWMOwLsiY8EtODpyEoTIg)
+- [PGO 是啥，咋就让 Go 更快更猛了](https://mp.weixin.qq.com/s/7uobN6DmpIYqG34pOpvvlA)
+- [小修小补 errors 库 Unwrap](https://mp.weixin.qq.com/s/gfUM4EjE1av_YBeUBFyKtA)
+- [禁止匿名接口循环导入](https://mp.weixin.qq.com/s/1d4XUoW5e45jYeEJEWoXeQ)
+- [修改全局变量的初始化顺序](https://mp.weixin.qq.com/s/rtEhjJhwdkX3U01vHG6S8g)
+- [SliceHeader 和 StringHeader 将会被废弃](https://mp.weixin.qq.com/s/al5zXILiKnqnsh-XrLMB6A)
+
+
 ### 1.18
 - [多 Module 工作区模式](https://mp.weixin.qq.com/s/Aa9s_ORDVfzbj915aJD5_w)
 - [编译后的二进制文件，将包含更多信息](https://mp.weixin.qq.com/s/GWORgffT-xGNEwtOs_4llw)

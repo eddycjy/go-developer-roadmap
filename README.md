@@ -3,6 +3,10 @@
 
 欢迎到【[公众号](https://github.com/eddycjy/go777#%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7)】获取最新文章或加我 【[微信](https://github.com/eddycjy/go777#%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7)】提意见（记得 Star），可倒推煎鱼更新，感谢各位。
 
+## Go 学习路线图
+
+![image](./image/go-developer-roadmap.png)
+
 ## Go 学习指南
 
 - [Go 语言入门系列：初探 Go 项目实战（含 gin、grpc、grpc-gateway 实战）](https://eddycjy.com/go-categories/)

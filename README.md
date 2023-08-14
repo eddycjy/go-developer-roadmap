@@ -125,7 +125,7 @@
 - [SliceHeader 和 StringHeader 将会被废弃](https://mp.weixin.qq.com/s/al5zXILiKnqnsh-XrLMB6A)
 
 ### 1.19 
-- [Go1.19 那些事：国产芯片、内存模型等新特性，你知道多少？](https://mp.weixin.qq.com/s/4L3qREFQo0rkZn9m5gabdw)
+- [国产芯片、内存模型、性能提高等新特性](https://mp.weixin.qq.com/s/4L3qREFQo0rkZn9m5gabdw)
 
 ### 1.18
 - [多 Module 工作区模式](https://mp.weixin.qq.com/s/Aa9s_ORDVfzbj915aJD5_w)
@@ -151,6 +151,7 @@
 - [变更内存管理机制：从 MADV_FREE 改回 MADV_DONTNEED](https://mp.weixin.qq.com/s/l4oEJdskbWpff1E3tTNUxQ)
 - [优化 modules：支持后悔药](https://mp.weixin.qq.com/s/0g89yj9sc1oIz9kS9ZIAEA)
 - [逐步移除 GOPATH](https://mp.weixin.qq.com/s/uSqBCrRaSSR82aL0jw3TfQ)
+
 ## 我的公众号
 
 所有文章和最新进度，请关注：

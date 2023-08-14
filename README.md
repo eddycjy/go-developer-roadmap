@@ -89,6 +89,16 @@
   - [gorm](https://github.com/go-gorm/gorm)
   - [xorm](https://gitea.com/xorm/xorm)
 
+
+## 福利
+
+待完善中...
+
+- [在线资料](https://github.com/eddycjy/go-developer-roadmap/blob/main/docs/book/%E7%94%B5%E5%AD%90%E4%B9%A6.md#%E5%9C%A8%E7%BA%BF%E8%B5%84%E6%96%99)
+- [电子书（请勿传播）](https://github.com/eddycjy/go777/blob/main/docs/book/%E7%94%B5%E5%AD%90%E4%B9%A6.md#go-%E8%AF%AD%E8%A8%80)
+- 简历模板
+
+
 ## Go 历史版本特性
 
 ### 1.21
@@ -114,6 +124,8 @@
 - [修改全局变量的初始化顺序](https://mp.weixin.qq.com/s/rtEhjJhwdkX3U01vHG6S8g)
 - [SliceHeader 和 StringHeader 将会被废弃](https://mp.weixin.qq.com/s/al5zXILiKnqnsh-XrLMB6A)
 
+### 1.19 
+- [Go1.19 那些事：国产芯片、内存模型等新特性，你知道多少？](https://mp.weixin.qq.com/s/4L3qREFQo0rkZn9m5gabdw)
 
 ### 1.18
 - [多 Module 工作区模式](https://mp.weixin.qq.com/s/Aa9s_ORDVfzbj915aJD5_w)
@@ -139,16 +151,6 @@
 - [变更内存管理机制：从 MADV_FREE 改回 MADV_DONTNEED](https://mp.weixin.qq.com/s/l4oEJdskbWpff1E3tTNUxQ)
 - [优化 modules：支持后悔药](https://mp.weixin.qq.com/s/0g89yj9sc1oIz9kS9ZIAEA)
 - [逐步移除 GOPATH](https://mp.weixin.qq.com/s/uSqBCrRaSSR82aL0jw3TfQ)
-
-
-## 福利
-
-待完善中...
-
-- [在线资料](https://github.com/eddycjy/go-developer-roadmap/blob/main/docs/book/%E7%94%B5%E5%AD%90%E4%B9%A6.md#%E5%9C%A8%E7%BA%BF%E8%B5%84%E6%96%99)
-- [电子书（请勿传播）](https://github.com/eddycjy/go777/blob/main/docs/book/%E7%94%B5%E5%AD%90%E4%B9%A6.md#go-%E8%AF%AD%E8%A8%80)
-- 简历模板
-
 ## 我的公众号
 
 所有文章和最新进度，请关注：

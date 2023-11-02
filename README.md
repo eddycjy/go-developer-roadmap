@@ -9,7 +9,7 @@
 
 ## LeetCode 算法全题解
 
-和好朋友整理了一份 LeetCode 全题解，非常赞！可以关注我的【[公众号](https://github.com/eddycjy/go777#%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7)】后回复 000 获取 PDF 版本。
+和好朋友整理了一份 LeetCode 全题解，非常赞！可以关注我的【[公众号](https://github.com/eddycjy/go777#%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7)】后回复 【000】 获取 PDF 版本。
 
 覆盖大中厂常见算法题，共包含 700 道：
 

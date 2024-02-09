@@ -109,6 +109,14 @@
 
 ## Go 历史版本特性
 
+### 1.22
+- [增强 http.ServerMux 路由能力](https://mp.weixin.qq.com/s/gGr1aM1ijBmaejfwW2qqeA)
+- [for 循环不再共享循环变量，支持整数范围](https://mp.weixin.qq.com/s/OnvniPEvDz6k5LLKGH1MFA)
+- [for 循环要支持整数范围？](https://mp.weixin.qq.com/s/cw7p2EuUTIj1TAcfCdfbew)
+- [Slices 变更 Concat、Delete、Insert 等函数](https://mp.weixin.qq.com/s/z886NFcGeKkNm97YhBhc7w)
+- [新的 math/rand/v2 库](https://mp.weixin.qq.com/s/BsZeSDxHwwSzjLjfjUIgIA)
+- [性能提高、Trace 大修、工作区支持 vendor 等](https://mp.weixin.qq.com/s/_RHDJ1VGfqolE_Uzorosbw)
+
 ### 1.21
 - [slices、maps 泛型库](https://mp.weixin.qq.com/s/1NuBnk8_lxmTi9N0biLa2g)
 - [for 循环变量的语义变更](https://mp.weixin.qq.com/s/VO0VlfGbuvZst9yD73-VDQ)

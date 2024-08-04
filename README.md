@@ -109,6 +109,12 @@
 
 ## Go 历史版本特性
 
+### 1.23
+- [新标准库 unique，性能更好，开销更小](https://mp.weixin.qq.com/s/NDqeknAm7q77siHm0Jbcxg)
+- [花了近 10 年，time.After 终于不泄漏了](https://mp.weixin.qq.com/s/Qcpj7TqMeOwCs--59kD3Kw)
+- [time.Reset 解决了过期时间值的坑](https://mp.weixin.qq.com/s/NijdOmdfKGLJowhbe9yqPg)
+- todo...
+
 ### 1.22
 - [增强 http.ServerMux 路由能力](https://mp.weixin.qq.com/s/gGr1aM1ijBmaejfwW2qqeA)
 - [for 循环不再共享循环变量，支持整数范围](https://mp.weixin.qq.com/s/OnvniPEvDz6k5LLKGH1MFA)

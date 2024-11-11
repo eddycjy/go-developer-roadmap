@@ -113,7 +113,11 @@
 - [新标准库 unique，性能更好，开销更小](https://mp.weixin.qq.com/s/NDqeknAm7q77siHm0Jbcxg)
 - [花了近 10 年，time.After 终于不泄漏了](https://mp.weixin.qq.com/s/Qcpj7TqMeOwCs--59kD3Kw)
 - [time.Reset 解决了过期时间值的坑](https://mp.weixin.qq.com/s/NijdOmdfKGLJowhbe9yqPg)
-- todo...
+- [争议最大的 iter 迭代器，可遍历万物](https://mp.weixin.qq.com/s/In_CxhOikw3iZYBnEXgG_g)
+- [可以记录未捕获的 panic 和 throw 日志了](https://mp.weixin.qq.com/s/D16riVBbnDibLueQBIQ6Pw)
+- [新库 structs.HostLayout，可以指定内存布局了](https://mp.weixin.qq.com/s/6YXi3g5stIWXxIj11qw6wA)
+- [禁用 //go:linkname，建立新的握手机制](https://mp.weixin.qq.com/s/9waTxAhLH7yGkRM3kcQUOQ)
+- [slices、panic、cookie 等函数改进，效率提高了](https://mp.weixin.qq.com/s/z5G7woc8_Rw2EKFWPxld_Q)
 
 ### 1.22
 - [增强 http.ServerMux 路由能力](https://mp.weixin.qq.com/s/gGr1aM1ijBmaejfwW2qqeA)
